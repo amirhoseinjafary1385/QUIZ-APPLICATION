@@ -16,5 +16,7 @@ Next : *in the  Terminal*
 git clone https://github.com/amirhoseinjafary1385/QUIZ-APPLICATION.git
 
 pip3 install -r requirements.txt
+
+
 pip install -r requirements.txt
 
